@@ -13,7 +13,7 @@ $(document).ready(function () {
         var division_id = $(this).val();
         if (division_id != '') {
             $.getJSON('Bangladesh/District.json', function (data) {
-               districtOptions='<option value="">Select District</option>';
+                districtOptions = '<option value="">Select District</option>';
                 $.each(data, function (key, district) {
                     if (division_id == district.division_id) {
                         districtOptions += '<option value="' + district.id + '">' + district.name + '</option>';
@@ -23,14 +23,14 @@ $(document).ready(function () {
             });
         } else {
             $('#district').html('<option value="">Select District</option>');
-            $('#subdistrict').html('<option value="">Select Select City</option>');
+            $('#subdistrict').html('<option value="">Select Sub-District</option>');
         }
     });
     $(document).on('change', '#district', function () {
         var district_id = $(this).val();
         if (district_id != '') {
             $.getJSON('Bangladesh/Subdistrict.json', function (data) {
-                supdistrictOptions= '<option value="">Select City</option>';
+                supdistrictOptions = '<option value="">Select Sub-District</option>';
                 $.each(data, function (key, subdistrict) {
                     if (district_id == subdistrict.district_id) {
                         supdistrictOptions += '<option value="' + subdistrict.id + '">' + subdistrict.name + '</option>';
@@ -39,7 +39,7 @@ $(document).ready(function () {
                 $('#subdistrict').html(supdistrictOptions);
             });
         } else {
-            $('#subdistrict').html('<option value="">Select City</option>');
+            $('#subdistrict').html('<option value="">Select Sub-District</option>');
         }
     });
 });
