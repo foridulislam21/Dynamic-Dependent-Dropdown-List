@@ -31,9 +31,10 @@
     },
 
 
+
     {
         "id":"7",
-        "name":"Brahmanbaria",
+        "name":"Chittagong",
         "division_id":"2"
     },
     {
@@ -78,7 +79,7 @@
     },
     {
         "id":"16",
-        "name":"Chittagong",
+        "name":"Brahmanbaria",
         "division_id":"2"
     },
     {
@@ -87,9 +88,70 @@
         "division_id":"2"
     },
 
+
     {
         "id":"18",
-        "name":"Nothing",
+        "name":"Dhaka",
+        "division_id":"3"
+    },
+    {
+        "id":"19",
+        "name":"Ghazipur",
+        "division_id":"3"
+    },
+    {
+        "id":"20",
+        "name":"Kishoreganj",
+        "division_id":"3"
+    },
+    {
+        "id":"21",
+        "name":"Manikganj",
+        "division_id":"3"
+    },
+    {
+        "id":"22",
+        "name":"Munshiganj",
+        "division_id":"3"
+    },
+    {
+        "id":"23",
+        "name":"Narayanganj",
+        "division_id":"3"
+    },
+    {
+        "id":"24",
+        "name":"Narsingdi",
+        "division_id":"3"
+    },
+    {
+        "id":"25",
+        "name":"Tangail",
+        "division_id":"3"
+    },
+    {
+        "id":"26",
+        "name":"Faridpur",
+        "division_id":"3"
+    },
+    {
+        "id":"27",
+        "name":"Gopalganj",
+        "division_id":"3"
+    },
+    {
+        "id":"28",
+        "name":"Madaripur",
+        "division_id":"3"
+    },
+    {
+        "id":"29",
+        "name":"Rajbari",
+        "division_id":"3"
+    },
+    {
+        "id":"30",
+        "name":"Shariatpur",
         "division_id":"3"
     }
 ]

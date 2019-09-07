@@ -1,0 +1,117 @@
+[
+    {
+        "id":"1",
+        "name":"Agailjhara Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"2",
+        "name":"Babuganj Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"3",
+        "name":"Bakerganj Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"4",
+        "name":"Banaripara Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"5",
+        "name":"Barisal Sadar Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"6",
+        "name":"Gournadi Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"7",
+        "name":"Hizla Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"8",
+        "name":"Mehendiganj Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"9",
+        "name":"Muladi Upazila",
+        "district_id":"1"
+    },
+    {
+        "id":"10",
+        "name":"Wazirpur Upazila",
+        "district_id":"1"
+    },
+
+
+    {
+        "id":"11",
+        "name":"Amtali Upazila",
+        "district_id":"2"
+    },
+    {
+        "id":"12",
+        "name":"Bamna Upazila",
+        "district_id":"2"
+    },
+    {
+        "id":"13",
+        "name":"Barguna Sadar Upazila",
+        "district_id":"2"
+    },
+    {
+        "id":"14",
+        "name":"Betagi Upazila",
+        "district_id":"2"
+    },
+    {
+        "id":"15",
+        "name":"Patharghata Upazila",
+        "district_id":"2"
+    },
+
+    {
+        "id":"16",
+        "name":"Bhola Sadar Upazila",
+        "district_id":"3"
+    },
+    {
+        "id":"17",
+        "name":"Borhanuddin Upazila",
+        "district_id":"3"
+    },
+
+    {
+        "id":"18",
+        "name":"Char Fasson Upazila",
+        "district_id":"3"
+    },
+    {
+        "id":"19",
+        "name":"Daulatkhan Upazila",
+        "district_id":"3"
+    },
+    {
+        "id":"20",
+        "name":"Lalmohan Upazila",
+        "district_id":"3"
+    },
+    {
+        "id":"21",
+        "name":"Manpura Upazila",
+        "district_id":"3"
+    },
+    {
+        "id":"22",
+        "name":"Tazumuddin Upazila",
+        "district_id":"3"
+    }
+
+]
