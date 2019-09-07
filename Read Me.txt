@@ -1,0 +1,3 @@
+In this Projet I create  drop down list using jquery ajax 
+with JSON. It will be Dynamic Dependent select box using Jquery Ajax. I have filled dynamic 
+dependent drop down list by using Ajax Jquery with JSON data. 
